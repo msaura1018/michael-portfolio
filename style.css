@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  line-height: 1.6;
+  background: #f5f7fa;
+  color: #333;
+}
+
+.container {
+  max-width: 960px;
+  margin: auto;
+  padding: 20px;
+}
+
+header {
+  background: #004f9f;
+  color: white;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin-bottom: 10px;
+}
+
+.btn {
+  background: #ff7a00;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 6px;
+  margin-top: 15px;
+  display: inline-block;
+}
+
+section {
+  margin: 40px 0;
+}
+
+h2 {
+  color: #004f9f;
+}
+
+.job {
+  background: #fff;
+  padding: 15px;
+  border-left: 5px solid #004f9f;
+  margin-bottom: 15px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #004f9f;
+  color: white;
+}
